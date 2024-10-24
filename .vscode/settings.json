@@ -1,0 +1,8 @@
+{
+    "editor.linkedEditing": false,
+    "cSpell.language": "en,fa,fa-IR",
+    "todo-tree.tree.showBadges": false,
+    "cSpell.enableFiletypes": [
+        "!json"
+    ]
+}
